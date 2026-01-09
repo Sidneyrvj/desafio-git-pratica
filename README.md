@@ -1,3 +1,3 @@
-## Modificação feita direto no GitHub
+## Alteração feita pelo VS Code
 
-Esta linha foi adicionada diretamente pelo navegador!
+Esta modificação foi commitada usando a interface gráfica do VS Code!
